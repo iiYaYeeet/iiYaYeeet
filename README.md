@@ -8,7 +8,7 @@ I build systems-focused applications and simulations, with a focus on performanc
 ### Perihelion — Rocket Engineering Simulation  
 Unity, C#, JSON  
 - Modular engine construction and testing systems  
-- Data-driven architecture for configuration and persistence  
+- Data-driven architecture for persistence  
 - Simulation logic for engine behavior and performance  
 
 https://periheliongame.net/
