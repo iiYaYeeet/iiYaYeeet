@@ -3,7 +3,7 @@ Software Engineer | Gameplay & Systems Programmer
 
 I build systems-focused applications and simulations, with a focus on performance, architecture, and interactive design.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### Perihelion — Rocket Engineering Simulation  
 Unity, C#, JSON  
@@ -11,7 +11,7 @@ Unity, C#, JSON
 - Data-driven architecture for configuration and persistence  
 - Simulation logic for engine behavior and performance  
 
-🔗 https://periheliongame.net/
+https://periheliongame.net/
 
 ---
 
@@ -21,14 +21,14 @@ C#, WinForms, MariaDB, Docker
 - CRUD operations and task state management  
 - Containerized database using Docker  
 
-🔗 https://github.com/iiYaYeeet/Personal-Checklist  
+https://github.com/iiYaYeeet/Personal-Checklist  
 
 ---
 
-## 🛠️ Skills
+## Skills
 C++, C#, Unity, SFML, Data Structures, Algorithms, Game Systems, Docker, MariaDB  
 
 ---
 
-## 📫 Contact
+## Contact
 crgamedeveloper@gmail.com
