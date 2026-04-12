@@ -3,7 +3,7 @@ Software Engineer | Gameplay & Systems Programmer
 
 I build systems-focused applications and simulations, with a focus on performance, architecture, and interactive design.
 
-##  Featured Projects
+## Featured Projects
 
 ### Perihelion — Rocket Engineering Simulation  
 Unity, C#, JSON  
@@ -12,6 +12,18 @@ Unity, C#, JSON
 - Simulation logic for engine behavior and performance  
 
 https://periheliongame.net/
+
+---
+
+### Hephaestus — Embedded Flight Computer  
+C++, Arduino, I2C  
+- Designed and implemented a multi-sensor flight computer for real-time telemetry  
+- Integrated BMP280 for altitude, pressure, and temperature sensing  
+- Utilized dual MPU6050 IMUs with averaged outputs for improved motion accuracy  
+- Developed continuous sensor polling and formatted serial telemetry output  
+- Focused on redundancy and noise reduction in embedded systems  
+
+https://github.com/iiYaYeeet/Hephaestus-Flight-Computer  
 
 ---
 
@@ -26,7 +38,7 @@ https://github.com/iiYaYeeet/Personal-Checklist
 ---
 
 ## Skills
-C++, C#, Unity, SFML, Data Structures, Algorithms, Game Systems, Docker, MariaDB  
+C++, C#, Unity, SFML, Data Structures, Algorithms, Game Systems, Embedded Systems, Arduino, I2C, Docker, MariaDB  
 
 ---
 
